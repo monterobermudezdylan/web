@@ -1,0 +1,46 @@
+/* Estilos personalizados */
+body{
+   font-family: Arial,sans-serif;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.navbar {
+    position:fixed ;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+body {
+    padding-top: 70px ;
+}
+
+
+ .imagen1{
+
+    width: 600px;
+    height: 600px;
+    
+    
+ }
+ .imagen2{
+
+    width: 700px;
+    height: 400px;
+ }
+ .imagen3{
+
+    width: 700px;
+    height: 400px;
+ }
+
+
+
+ .img-fluid{
+    width: 800px;
+    height: 700px;
+
+ }
+ 
